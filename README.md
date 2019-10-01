@@ -25,4 +25,11 @@
 ```
 > yarn add babel-node
 > yarn add babel-cli -D
+> yarn add @babel/preset-env @babel/node @babel/core
+```
+
+## dotenv 설치
+- 서버를 세우는 툴(?)
+```
+> yarn add dotenv
 ```
