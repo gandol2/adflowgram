@@ -2,11 +2,18 @@
   "name": "adflowgram",
   "version": "1.0.0",
   "description": "인스타그램 클론 (with Express + Prisma + React and React Native)",
-  "main": "index.js",
   "repository": "https://github.com/gandol2/adflowgram.git",
   "author": "gandol2 <sskim2333@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-node": "^0.0.1-security",
     "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
   }
 }
