@@ -50,4 +50,5 @@
 >> Demo server
 >> Prisma JavaScript Client
 > >prisma deploy
+> yarn add prisma-client-lib
 ```
