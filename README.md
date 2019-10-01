@@ -40,3 +40,14 @@
 ```
 > yarn add morgan
 ```
+
+## prisma 설치
+[prisma](https://www.prisma.io/)
+```
+> npm install -g prisma
+> prisma login -k <로그안KEY>
+> prisma init
+>> Demo server
+>> Prisma JavaScript Client
+> >prisma deploy
+```
