@@ -1,9 +1,23 @@
 # adflowgram
 인스타그램 클론 (with Express + Prisma + React and React Native)
 
+## User Stories
 
 
+- [x] 계정생성 (nodemailer 인증 사용)
+- [ ] 로그인 
+- [ ] 사진 Link/Unlike
+- [ ] 댓글
+- [ ] 사용자 검색
+- [ ] 위치 검색
+- [ ] 프로필 보기
+- [ ] 사용자 팔로우 / 언팔로우 
+- [ ] 사진 확대
+- [ ] 프로필 편집
 
+- [ ] 사진 업로드
+- [ ] 사진 수정 (삭제)
+- [ ] 피드 확인
 
 
 
