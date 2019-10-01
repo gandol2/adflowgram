@@ -13,6 +13,7 @@
 ## graphql-yoga 설치
 ```
 > yarn add graphql-yoga
+> yarn add graphql-tools merge-graphql-schemas
 ```
 
 ## nodemon 설치
@@ -32,4 +33,10 @@
 - 서버를 세우는 툴(?)
 ```
 > yarn add dotenv
+```
+
+## morgan 설치
+- morgan is logger helper
+```
+> yarn add morgan
 ```
