@@ -1,0 +1,12 @@
+{
+  "name": "adflowgram",
+  "version": "1.0.0",
+  "description": "인스타그램 클론 (with Express + Prisma + React and React Native)",
+  "main": "index.js",
+  "repository": "https://github.com/gandol2/adflowgram.git",
+  "author": "gandol2 <sskim2333@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
