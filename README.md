@@ -68,3 +68,16 @@
 > >prisma deploy
 > yarn add prisma-client-lib
 ```
+
+## nodemailer 설치
+- 이메일 보내주는 모듈
+```
+> yarn add nodemailer
+> yarn add nodemailer-sendgrid-transport
+```
+
+## passport 설치
+```
+> yarn add passport-jwt passport
+> yarn add jsonwebtoken
+```
