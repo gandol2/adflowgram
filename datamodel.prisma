@@ -28,7 +28,6 @@ type Like {
   id: ID! @id
   user: User!
   post: Post!
-  test: String!
 }
 
 type Comment {
